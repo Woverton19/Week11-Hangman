@@ -1,1 +1,1 @@
-console.log("I'm batman");
+var wordArray ={ "one"};
